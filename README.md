@@ -3,4 +3,4 @@ Curso Ebac Kotlin
 Repositório de teste para demonstrar um pull request
 
 atualização no main.
-atuaização no main com RESOLUÇÃO2.
+atuaização no main com RESOLUÇÃO
